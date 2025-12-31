@@ -33,9 +33,7 @@ Bu proje, **Go (Golang)** dili kullanılarak geliştirilmiş modüler bir Siber 
 
 Hız, verimlilik ve kullanıcı dostu CLI (Komut Satırı Arayüzü) deneyimine odaklanır.
 
-## 📸 Ekran Görüntüleri (Demo)
-
-*(Buraya aracın çalışırkenki bir ekran görüntüsünü veya GIF'ini eklemen çok havalı durur. Yoksa bu satırı silebilirsin)*
+## 📸 Demo
 
 ```bash
 hedef bilgisi girin: example.com
